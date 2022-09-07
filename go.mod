@@ -1,4 +1,4 @@
-module json_markd
+module github.com/jeffreydwalter/json_markd
 
 go 1.13
 
